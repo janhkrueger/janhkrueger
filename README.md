@@ -10,7 +10,7 @@
 
 ### Writing
 - [Personal Blog](https://janhkrueger.gitlab.io/blog/)
-- [Interesting Links and articles](https://gitlab.com/janhkrueger/intersting-links)
+- [Interesting Links and articles](https://gitlab.com/janhkrueger/interesting-links)
 
 #### &#128295; Tutorial Projects
 - [Gitlab CI/CD for C++](https://gitlab.com/janhkrueger/cpp-tutorial-pipeline)
