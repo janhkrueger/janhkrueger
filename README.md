@@ -14,7 +14,7 @@
 - [Interesting Projects](https://gitlab.com/janhkrueger/interesting-projects)
 
 #### &#128295; Tutorial Projects
-- [Gitlab CI/CD for C++](https://gitlab.com/janhkrueger/cpp-tutorial-pipeline)
+- [Gitlab CI/CD for C++](https://gitlab.com/janhkrueger/GitlabCICDforCpp)
 - [Tutorial FeatureFlag for C++](https://gitlab.com/janhkrueger/TutorialFeatureFlagforCpp)
 - [Import weather data via openweathermap, C++](https://gitlab.com/janhkrueger/importweather)
 - [Little shell scripts and other helpers](https://gitlab.com/janhkrueger/littlehelpers)
