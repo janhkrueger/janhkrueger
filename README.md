@@ -24,6 +24,7 @@
 - [Quest of Islands](https://www.questofislands.com/)
 - [Quest of Islands Trello Board](https://trello.com/b/ivV6TEX9/quest-of-islands)
 - [Franken-Tool-Wiki](http://www.franken-tool.de/hilfe/index.php?title=Hauptseite)
+- [Inselpioniere](https://inselpioniere.de)
 - [Scherbenkarte (Angarion)](http://angarion.de/sw/scherbenkarte/sw_karte.html)
 - [Scherbenkarte (Freya san Gordar)](http://web89.server-drome.net/scherbenkarte/)
 - [Beleggrodion's Karten Archiv V 2.0.0](http://solarwars.nextgen.ch/projects/sw/)
