@@ -16,6 +16,7 @@
 #### &#128295; Tutorial Projects
 - [Gitlab CI/CD for C++](https://gitlab.com/janhkrueger/GitlabCICDforCpp)
 - [Tutorial FeatureFlag for C++](https://gitlab.com/janhkrueger/TutorialFeatureFlagforCpp)
+- [Tutorial FeatureFlag for Java](https://gitlab.com/janhkrueger/TutorialFeatureFlagforJava)
 - [Import weather data via openweathermap, C++](https://gitlab.com/janhkrueger/importweather)
 - [Little shell scripts and other helpers](https://gitlab.com/janhkrueger/littlehelpers)
 
