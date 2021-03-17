@@ -31,7 +31,3 @@
 - [Beleggrodion's Karten Archiv V 2.0.0](http://solarwars.nextgen.ch/projects/sw/)
 - [www.scherbenwelten.de WebArchiv 05.10.2002](http://web.archive.org/web/20021005194549/www.scherbenwelten.de/start.php)
 - [www.scherbenwelten.de WebArchiv 14.08.2002](http://web.archive.org/web/20020813233137/www.scherbenwelten.de/start.php)
-
-
-
-
