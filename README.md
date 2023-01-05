@@ -24,7 +24,7 @@
 
 ### Scherbenwelten related links
 - [TGWNN - Dem Spiel ohne Namen](https://tgwnn.rpgame.de/)
-- [Quest of Islands](https://www.questofislands.com/)
+- [Quest of Islands](https://www.questofislands.com/) (__Die übergangs gewährten Testabos sind zum 31.12.2022 ausgelaufen, ein agieren damit nicht mehr möglich. Neue Accounts werden nicht frei geschaltet. Damit. INACTIVE__)
 - [Quest of Islands Trello Board](https://trello.com/b/ivV6TEX9/quest-of-islands)
 - [Franken-Tool-Wiki](http://www.franken-tool.de/hilfe/index.php?title=Hauptseite)
 - [Inselpioniere](https://inselpioniere.de) (__INACTIVE__)
