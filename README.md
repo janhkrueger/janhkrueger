@@ -24,8 +24,9 @@
 
 ### Scherbenwelten related links
 - [TGWNN - Dem Spiel ohne Namen](https://tgwnn.rpgame.de/)
-- [Quest of Islands](https://www.questofislands.com/)
+- [Quest of Islands](https://www.questofislands.com/) (__RETIRED__)
 - [Quest of Islands Trello Board](https://trello.com/b/ivV6TEX9/quest-of-islands)
+- [Quest of Islands] Issue Board auf Gitlab](https://gitlab.com/AmhlaidhDoireann/questofislands/-/issues)
 - [Franken-Tool-Wiki](http://www.franken-tool.de/hilfe/index.php?title=Hauptseite)
 - [Inselpioniere](https://inselpioniere.de) (__INACTIVE__)
 - [Scherbenwelten (WIS)](https://www.startnext.com/scherbenwelten) (__INACTIVE__)
