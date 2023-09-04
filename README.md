@@ -2,7 +2,7 @@
 
 #### &#127760; Social
 
-[![Twitter](https://img.shields.io/twitter/follow/janhkrueger?style=social)](https://twitter.com/janhkrueger) 
+[![Twitter](https://img.shields.io/twitter/follow/janhkrueger?style=social)](https://twitter.com/janhkrueger)
 [![Linkedin](https://img.shields.io/badge/-janhkrueger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janhkrueger/)](https://www.linkedin.com/in/janhkrueger/)
 
 
@@ -35,3 +35,6 @@
 - [Beleggrodion's Karten Archiv V 2.0.0](http://solarwars.nextgen.ch/projects/sw/) (__INACTIVE__)
 - [www.scherbenwelten.de WebArchiv 05.10.2002](http://web.archive.org/web/20021005194549/www.scherbenwelten.de/start.php)
 - [www.scherbenwelten.de WebArchiv 14.08.2002](http://web.archive.org/web/20020813233137/www.scherbenwelten.de/start.php)
+
+### Pokemon
+- [Hotels with Pokemon Stops](https://janhkrueger.gitlab.io/pokemon-hotels-with-stops-and-gyms/)
