@@ -10,7 +10,7 @@
 
 ### Writing
 - [Personal Blog](https://janhkrueger.gitlab.io/blog/)
-- [Interesting Links and articles](https://gitlab.com/janhkrueger/interesting-links)
+- [Interesting Links and articles](https://github.com/janhkrueger/interesting-links)
 - [Interesting Projects](https://gitlab.com/janhkrueger/interesting-projects)
 
 #### &#128295; Tutorial Projects
