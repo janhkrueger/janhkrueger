@@ -11,7 +11,7 @@
 ### Writing
 - [Personal Blog](https://janhkrueger.gitlab.io/blog/)
 - [Interesting Links and articles](https://github.com/janhkrueger/interesting-links)
-- [Interesting Projects](https://gitlab.com/janhkrueger/interesting-projects)
+- [Interesting Projects](https://github.com/janhkrueger/interesting-projects)
 
 #### &#128295; Tutorial Projects
 - [Tutorial Convert Arabic Numerals To Roman Letters for C++](https://gitlab.com/janhkrueger/TutorialConvertArabicNumeralsToRomanLettersforCpp)
