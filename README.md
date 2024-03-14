@@ -39,6 +39,6 @@
 ### Pokemon
 - [Hotels with Pokemon Stops](https://janhkrueger.gitlab.io/pokemon-hotels-with-stops-and-gyms/)
 
-- ### Stats
+### Stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=janhkrueger&show_icons=true&bg_color=ffffff00&text_color=595959)](https://github.com/anuraghazra/github-readme-stats)
