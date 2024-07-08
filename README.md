@@ -15,11 +15,11 @@
 #### &#128295; Tutorial Projects
 - [Tutorial Convert Arabic Numerals To Roman Letters for C++](https://github.com/janhkrueger/TutorialConvertArabicNumeralsToRomanLettersforCpp)
 - [Tutorial Convert Roman Letters To Arabic Numerals for C++](https://github.com/janhkrueger/TutorialConvertRomanLettersToArabicNumeralsforCpp)
-- [Tutorial FeatureFlag for C++](https://gitlab.com/janhkrueger/TutorialFeatureFlagforCpp)
-- [Tutorial FeatureFlag for Java](https://gitlab.com/janhkrueger/TutorialFeatureFlagforJava)
-- [Tutorial Gitlab CI CD for C++](https://gitlab.com/janhkrueger/TutorialGitlabCICDForCpp)
-- [Tutorial Import Weather For C++](https://gitlab.com/janhkrueger/TutorialImportWeatherForCpp)
-- [Little shell scripts and other helpers](https://gitlab.com/janhkrueger/littlehelpers)
+- [Tutorial FeatureFlag for C++](https://github.com/janhkrueger/TutorialFeatureFlagforCpp)
+- [Tutorial FeatureFlag for Java](https://github.com/janhkrueger/TutorialFeatureFlagforJava)
+- [Tutorial Gitlab CI CD for C++](https://github.com/janhkrueger/TutorialGitlabCICDForCpp)
+- [Tutorial Import Weather For C++](https://github.com/janhkrueger/TutorialImportWeatherForCpp)
+- [Little shell scripts and other helpers](https://github.com/janhkrueger/littlehelpers)
 
 ### Scherbenwelten related links
 - [TGWNN - Dem Spiel ohne Namen](https://tgwnn.rpgame.de/)
